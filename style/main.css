@@ -1,0 +1,34 @@
+div{
+	height: 10em;
+	width: 10em;
+	margin: 1%;
+	border: 0.1em dashed black;
+	background-color: orange;
+}
+
+#grande{
+		height: 15em;
+		width: 41em;
+		position: relative;
+}
+
+.dentro{
+	 float:left;
+	 position:relative;
+	 top:-36em;
+	 right: -1em;
+	 margin-left: 2em;
+	 margin-right: 1em;}
+
+.red{background-color: red;
+	 
+	}
+
+#junto{
+	display: inline-block;
+    position: relative;
+	top:-22.7em;
+	left:-28em;}
+
+
+
